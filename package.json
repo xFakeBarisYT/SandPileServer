@@ -1,0 +1,16 @@
+{
+  "name": "node-hill-template",
+  "version": "1.0.0",
+  "description": "A sample template for hosting node-hill servers.",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "You",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0",
+    "node-hill-s": "^13.4.0",
+    "npm": "^10.8.2"
+  }
+}
